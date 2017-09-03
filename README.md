@@ -9,6 +9,6 @@ Search for users, mentions, hashtags or any text. Geocoded tweets will be displa
 ## To Run
 
  * Clone to a PHP-enabled web server
- * Set your keys and tokens in `crendentials.php`
+ * Set your keys and tokens in `credentials.php`
 
 This uses [Abraham Williams twitteroauth](https://github.com/abraham/twitteroauth).
